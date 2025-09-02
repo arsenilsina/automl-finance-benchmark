@@ -1,0 +1,8 @@
+pandas>=2.0
+numpy>=1.25
+scikit-learn>=1.2
+optuna>=3.0
+matplotlib>=3.7
+PyYAML>=6.0
+joblib>=1.2
+yfinance
